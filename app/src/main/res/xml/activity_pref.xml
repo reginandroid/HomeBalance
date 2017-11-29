@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<CheckBoxPreference-->
+        <!--android:defaultValue="true"-->
+
+        <!--android:key="show_all"-->
+        <!--android:summary="Show for all period"-->
+        <!--android:title="SHOW ALL">-->
+    <!--</CheckBoxPreference>-->
+    <!--&lt;!&ndash;<Preference android:key="period_from_to" >&ndash;&gt;-->
+
+    <!--&lt;!&ndash;</Preference>&ndash;&gt;-->
+    <com.example.buh.homebalance.Dialog_ChoosePeriod
+
+        android:key="period_from_to"
+        android:title="CHOOSE A PERIOD">
+    </com.example.buh.homebalance.Dialog_ChoosePeriod>
+</PreferenceScreen>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeBalance</string>
+    <string name="action_settings">Settings</string>
+    <string name="no">CANCEL</string>
+</resources>
